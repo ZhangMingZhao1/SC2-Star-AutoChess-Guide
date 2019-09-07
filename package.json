@@ -1,0 +1,19 @@
+{
+  "name": "sc2-star-autochess-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "items.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhangMingZhao1/SC2-Star-AutoChess-Guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhangMingZhao1/SC2-Star-AutoChess-Guide/issues"
+  },
+  "homepage": "https://github.com/ZhangMingZhao1/SC2-Star-AutoChess-Guide#readme"
+}
